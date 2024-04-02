@@ -1,4 +1,4 @@
-# Predicting Adoption Success in Animal-Shelters
+# Predicting Adoption Success in Animal Shelters
 🐾 Transforming Lives, One Algorithm at a Time! 🐱
 
 Discover how we utilized predictive analytics to generate actionable insights that can change how shelters find forever homes for cats! Developed by Andrew Gatchalian, Davidson Rajasekar, Devin Xiang Tian, Kaidi Huang, Yuanhui Yao at the University of California, Irvine.
